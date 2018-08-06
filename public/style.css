@@ -34,7 +34,7 @@ body {
   padding: 30px;
 }
 
-#sidebar section > * {
+#sidebar section>* {
   padding: 0 15px;
 }
 
@@ -55,12 +55,12 @@ body {
 }
 
 #sidebar .menu-item button:hover {
-  color: white;
+  color: whitesmoke;
 }
 
 #sidebar .menu-item.active,
 #sidebar .menu-item button:hover {
-  border-left: 3px solid #800c0c;
+  border-left: 3px solid #0c8025;
   text-decoration: underline;
 }
 
@@ -75,8 +75,8 @@ body {
 }
 
 .card:hover {
-  border-color: #800c0c;
-  color: #f00c0c;
+  border-color: #d6ec0f;
+  color: #197502;
   cursor: pointer;
 }
 
